@@ -5,7 +5,7 @@ namespace :greeting do
   end
 
   task :hola do
-    print "hola de Rake!"
+    prints "hola de Rake!"
   end
 end
 
